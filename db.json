@@ -1,0 +1,63 @@
+{
+  "heroes": [
+    {
+      "id": 1,
+      "name": "Pudge",
+      "type": "Strength",
+      "imageURL": "https://gamepedia.cursecdn.com/dota2_gamepedia/c/c0/Pudge_icon.png"
+    },
+    {
+      "id": 2,
+      "name": "Rubick",
+      "type": "Intelligence",
+      "imageURL": "https://gamepedia.cursecdn.com/dota2_gamepedia/8/8a/Rubick_icon.png"
+    },
+    {
+      "id": 3,
+      "name": "Shadow Fiend",
+      "type": "Agility",
+      "imageURL": "https://gamepedia.cursecdn.com/dota2_gamepedia/3/36/Shadow_Fiend_icon.png"
+    },
+    {
+      "name": "Tiny",
+      "type": "Strength",
+      "imageURL": "https://gamepedia.cursecdn.com/dota2_gamepedia/5/55/Tiny_icon.png",
+      "id": 4
+    },
+    {
+      "name": "Invoker",
+      "type": "Intelligence",
+      "imageURL": "https://gamepedia.cursecdn.com/dota2_gamepedia/0/00/Invoker_icon.png",
+      "id": 5
+    },
+    {
+      "name": "Tinker",
+      "type": "Intelligence",
+      "imageURL": "https://gamepedia.cursecdn.com/dota2_gamepedia/d/d1/Tinker_icon.png",
+      "id": 6
+    },
+    {
+      "name": "Storm Spirit",
+      "type": "Intelligence",
+      "imageURL": "https://gamepedia.cursecdn.com/dota2_gamepedia/1/13/Storm_Spirit_icon.png",
+      "id": 7
+    }
+  ],
+  "types": [
+    {
+      "id": 1,
+      "name": "Strength",
+      "iconURL": "https://gamepedia.cursecdn.com/dota2_gamepedia/7/7a/Strength_attribute_symbol.png"
+    },
+    {
+      "id": 2,
+      "name": "Agility",
+      "iconURL": "https://gamepedia.cursecdn.com/dota2_gamepedia/2/2d/Agility_attribute_symbol.png"
+    },
+    {
+      "id": 3,
+      "name": "Intelligence",
+      "iconURL": "https://gamepedia.cursecdn.com/dota2_gamepedia/5/56/Intelligence_attribute_symbol.png"
+    }
+  ]
+}
