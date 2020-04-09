@@ -1,6 +1,12 @@
 # dota-vue-component
 
-## Hero list:
+## How to Run :
+```
+- json-server db.json --watch
+- parcel index.html
+```
+
+## Hero list :
 
 ### Strength
 
